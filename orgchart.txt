@@ -1,0 +1,137 @@
+<div id="left">
+  <div class="centered">
+
+    <ul class="orgchart">
+      <li class="root">
+        <div class="nodecontent"><span class="title">Allen Atefi</span><br><span class="descr">
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+            <p>
+              Director, Maintenance Support Services<br> &amp; Non-Producing Assets (MSS &amp; NPA)</p>
+          </span></div>
+        <ul>
+          <li class="vertical">
+            <div class="icon">
+              <img src="https://live.staticflickr.com/65535/51655863547_1a23614ac7.jpg" width="500" height="500" alt="service">
+            </div>
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+            <div class="nodecontent">
+
+              <span class="title">Mike Leibel</span><br><span class="descr">
+                <p>Area Leader Facilities Maintenance</p>
+              </span>
+            </div>
+            <ul>
+              <li class="leaf">
+                <div class="nodecontent">Maintenance of:Buildings</div>
+              </li>
+              <li class="leaf">
+                <div class="nodecontent"> Roads &amp; Grounds</div>
+              </li>
+              <li class="leaf">
+                <div class="nodecontent"> NPA</div>
+              </li>
+            </ul>
+          </li>
+          <li class="vertical">
+            <div class="icon">
+              <img src="https://live.staticflickr.com/65535/51655863547_1a23614ac7.jpg" width="500" height="500" alt="service">
+            </div>
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+            <div class="nodecontent"><span class="title">Richard Little</span><br>
+              <span class="descr">
+                <p>Area Leader CMS</p>
+              </span>
+            </div>
+            <ul>
+              <li class="leaf">
+                <div class="nodecontent">Central Shops</div>
+              </li>
+              <li class="leaf">
+                <div class="nodecontent"> Fab</div>
+              </li>
+            </ul>
+          </li>
+          <li class="vertical">
+            <div class="icon">
+              <img src="https://live.staticflickr.com/65535/51655863547_1a23614ac7.jpg" width="500" height="500" alt="service">
+            </div>
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+            <div class="nodecontent"><span class="title">Shane Dicks</span><br>
+              <span class="descr">
+                <p>Area Leader Cranes</p>
+              </span>
+            </div>
+            <ul>
+              <li class="leaf">
+                <div class="nodecontent">Cranes</div>
+              </li>
+              <li class="leaf">
+                <div class="nodecontent"> Rigging</div>
+              </li>
+            </ul>
+          </li>
+          <li class="vertical">
+            <div class="icon">
+              <img src="https://live.staticflickr.com/65535/51657540175_95efd53e09.jpg" width="500" height="500" alt="customer">
+            </div>
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+            <div class="nodecontent"><span class="title">Jason Hurlburt</span><br>
+              <span class="descr">
+                <p>Area Leader CSS</p>
+              </span>
+            </div>
+            <ul>
+              <li class="leaf">
+                <div class="nodecontent">Central Support</div>
+              </li>
+            </ul>
+          </li>
+          <li class="vertical">
+            <div class="icon">
+              <img src="https://live.staticflickr.com/65535/51657540175_95efd53e09.jpg" width="500" height="500" alt="customer">
+            </div>
+            <div class="teams">
+              <a href="https://teams.microsoft.com/l/chat/0/0?users=">
+                <img src="https://live.staticflickr.com/65535/51657816745_4423a51768_t.jpg" alt="teams">
+              </a>
+            </div>
+
+            <div class="nodecontent"><span class="title">Christa Piercey</span><br>
+              <span class="descr">
+                <p>Area Leader Facilities Management</p>
+              </span>
+            </div>
+            <ul>
+              <li class="leaf">
+                <div class="nodecontent">Facility Leasing</div>
+              </li>
+              <li class="leaf">
+                <div class="nodecontent"> Master keys</div>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
